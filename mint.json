@@ -10,6 +10,16 @@
     "light": "#55D799",
     "dark": "#0C0A08"
   },
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development"
+      ]
+    }
+  ],
   "footerSocials": {
     "github": "https://github.com/8GenHQ"
   }
