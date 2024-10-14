@@ -10,15 +10,11 @@
     "light": "#07C983",
     "dark": "#0c0a08"
   },
-  "topbarLinks": [
-  ],
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
     }
-  ],
-  "anchors": [
   ],
   "navigation": [
     {
