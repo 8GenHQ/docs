@@ -6,7 +6,9 @@
   },
   "favicon": "/Infinity.png",
   "colors": {
-    "primary": "#FA6F44"
+    "primary": "#FA6F44",
+    "dark": "#FA6F44",
+    "light": "#FA6F44"
   },
   "navigation": [
     {
